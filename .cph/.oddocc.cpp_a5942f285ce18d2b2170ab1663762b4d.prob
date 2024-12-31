@@ -1,0 +1,1 @@
+{"name":"Local: oddocc","url":"/home/bob/Documents/System Design/DSA/oddocc.cpp","tests":[{"id":1735508969268,"input":"7\n4\n3\n4\n4\n4\n5\n5\n5","output":"3 5"},{"id":1735509003301,"input":"5\n8\n7\n7\n8\n8","output":"8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/bob/Documents/System Design/DSA/oddocc.cpp","group":"local","local":true}

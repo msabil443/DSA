@@ -1,0 +1,1 @@
+{"name":"Local: substringofstring","url":"/home/bob/Documents/System Design/DSA/Recursion/substringofstring.cpp","tests":[{"id":1736085109669,"input":"abc","output":" \nc\nb\nbc\na\nac\nab\nabc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/bob/Documents/System Design/DSA/Recursion/substringofstring.cpp","group":"local","local":true}
